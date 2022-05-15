@@ -3,3 +3,5 @@
 	email = maijiajun5@jmail.com
 [merge]
 	tool = vimdiff
+[core]
+	excludesfile = /home/maijiajun/.gitignore_global
