@@ -1,0 +1,5 @@
+[user]
+	name = ivan Mai
+	email = maijiajun5@jmail.com
+[merge]
+	tool = vimdiff
